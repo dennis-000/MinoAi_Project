@@ -107,8 +107,8 @@ Run the notebooks in sequential order (01 through 06) to reproduce the analysis.
 This project represents original work completed for academic purposes. All external resources and libraries used are properly cited within the notebooks.
 
 ## Author
-Eugene - IT Student
-Submission Date: January 3rd, 2026
+Dennis Mino - CS Student
+Submission Date: December 26th, 2025
 
 ## License
 This project is for educational purposes only.
